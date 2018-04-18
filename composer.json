@@ -1,6 +1,6 @@
 {
-  "name": "axios/aliyun-sdk",
-  "description": "SDK for aliyun service develop",
+  "name": "yoho/aliyun-sdk",
+  "description": "SDK for aliyun service develop base on axios",
   "version": "0.5.5",
   "keywords": [
     "aliyun",
